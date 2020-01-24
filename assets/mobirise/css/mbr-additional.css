@@ -149,9 +149,9 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #ff7f9f !important;
-  border-color: #ff7f9f !important;
-  color: #ffffff !important;
+  background-color: #FCB6CC !important;
+  border-color: #FCB6CC !important;
+  color: #383838 !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
